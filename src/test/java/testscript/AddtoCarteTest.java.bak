@@ -5,7 +5,7 @@ import org.testng.asserts.SoftAssert;
 
 import genaric.Baseclass;
 
-//this is the demo propers
+
 public class AddtoCarteTest extends Baseclass{
 	
 @Test 
